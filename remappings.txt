@@ -1,0 +1,4 @@
+@openzeppelin/=lib/openzeppelin-contracts/
+@layerzero/=lib/LayerZero/
+@flare/=lib/flare-foundry-periphery-package/
+
